@@ -5,7 +5,7 @@
   [🌐 live demo](https://hind-hisham.github.io/Bank-App/)
 
 ## Introduction
-This is React Applaction with vite tool,It is Modren landing page for a Bank
+This is React  Application with vite tool,It is Modern landing page for a Bank
 
 ## Technologies
 * Vite.js
